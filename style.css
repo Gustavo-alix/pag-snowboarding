@@ -278,6 +278,15 @@ footer {
     color: #4cc9f0;
 }
 
+a{
+    text-decoration: none;
+    color: white;
+}
+
+a:hover{
+    color: #4cc9f0;
+}
+
 /* Responsive */
 @media (max-width: 768px) {
     .content {
