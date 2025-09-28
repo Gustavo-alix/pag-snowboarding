@@ -105,8 +105,8 @@ body {
 
 .btn {
     display: inline-block;
-    background-color: #4cc9f0;
-    color: white;
+    background-color: transparent;
+    color: rgb(254, 254, 254);
     padding: 0.8rem 1.5rem;
     border-radius: 30px;
     text-decoration: none;
@@ -115,7 +115,7 @@ body {
 }
 
 .btn:hover {
-    background-color: #3aa8d1;
+    background-color: #798285;
     transform: translateY(-3px);
 }
 
