@@ -485,7 +485,4 @@ a:hover{
     border-radius: 5px;
 }
 
-/* Icono de menú hamburguesa (requiere Font Awesome) */
-.menu-toggle {
-    display: none;
-}
+
